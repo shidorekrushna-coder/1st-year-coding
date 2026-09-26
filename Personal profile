@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Profile</title>
+</head>
+<body>
+<h1 align="center" ><font color="grey"> My Personal Profile</font></h1>
+<hr><hr>
+<img  width="200" height="150" src="profilephoto.jpeg"</img>
+<br>
+<h3><ins>Name</ins>:ABC</h3>
+<h3><ins>branch</ins>: Information Technology</h3>
+<h3><ins>Year</ins>: 2026-27</h3>
+<hr>
+<h2><mark color="yellow">About Me:</mark></h2>
+<h3>I am first year engineering student. I am interested in programming and coding.</h3>
+<hr>
+<h2><mark color="yellow">Qualification:</mark></h2>
+<table width="60%" border="4">
+    <tr>
+        <th>Sr.No</th>
+        <th>Qualification</th>
+        <th>Institute</th>
+        <th>Year</th>
+    </tr>
+    <tr align="center">
+        <td>1</td>
+        <td>SSC</td>
+        <td>ABC</td>
+        <td>2024</td>
+    </tr>
+    <tr align="center">
+        <td>2</td>
+        <td>HSC</td>
+        <td>XYZ</td>
+        <td>2026</td>
+    </tr>
+    <tr align="center">
+        <td>3</td>
+        <td>B.Tech</td>
+        <td>SCOEK</td>
+        <td>2026</td>
+    </tr>
+</table>
+<hr>
+<h2><mark color="yellow">My Skills:</mark></h2>
+<ul>
+    <li>HTML</li>
+    <li>c-programming</li>
+    <li>Java</li>
+    <li>C++</li>
+</ul>
+<hr>
+
+<h2><mark color="yellow"> My Hobbies:</mark></h2>
+<ul>
+    <li>Music</li>
+    <li>Programming</li>
+    <li>Cricket</li>
+    <li>Reading</li>
+</ul>
+<hr>
+
+<h2><mark color="yellow">My Online Profile:</mark></h2>
+<caption>
+<p><a href="www.google.com">Open Google</a></p>
+<p><a href="www.facebook.com">Open Facebook</a></p>
+<p><a href="www.linkdln.com">Open linkdln</a></p>
+</caption>
+<hr>
+
+<h2><mark color="yellow">Contact Information:</mark></h2>
+<h3>Email id: abc12@gmail.com</h3>
+<h3>Phone No: XXXXXXXX98</h3>
+<hr>
+<p><footer>#2026MyPersonalProfile</footer></p>
+
+
+
+</html>
